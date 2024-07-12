@@ -1,0 +1,1 @@
+Skrypt do odpytywania API GUS - Dziedzinowe Bazy wiedzy
